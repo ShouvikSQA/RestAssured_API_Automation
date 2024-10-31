@@ -5,7 +5,7 @@ build/
 !**/src/test/**/build/
 .idea/
 gradle
-config.properties
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
